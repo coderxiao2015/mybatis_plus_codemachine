@@ -1,6 +1,6 @@
 package com;
 
-import com.ars.codemachine.config.DefaultConfig;
+import com.ares.codemachine.config.DefaultConfig;
 import com.baomidou.mybatisplus.core.toolkit.StringPool;
 import com.baomidou.mybatisplus.generator.AutoGenerator;
 import com.baomidou.mybatisplus.generator.InjectionConfig;

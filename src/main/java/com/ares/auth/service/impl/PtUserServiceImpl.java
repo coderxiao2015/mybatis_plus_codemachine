@@ -1,8 +1,8 @@
-package com.ars.auth.service.impl;
+package com.ares.auth.service.impl;
 
-import com.ars.auth.entity.PtUser;
-import com.ars.auth.mapper.PtUserMapper;
-import com.ars.auth.service.PtUserService;
+import com.ares.auth.entity.PtUser;
+import com.ares.auth.mapper.PtUserMapper;
+import com.ares.auth.service.PtUserService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

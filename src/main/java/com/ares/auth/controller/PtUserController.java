@@ -1,4 +1,4 @@
-package com.ars.auth.controller;
+package com.ares.auth.controller;
 
 
 import org.springframework.web.bind.annotation.RequestMapping;

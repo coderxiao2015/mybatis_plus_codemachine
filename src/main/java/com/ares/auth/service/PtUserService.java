@@ -1,6 +1,6 @@
-package com.ars.auth.service;
+package com.ares.auth.service;
 
-import com.ars.auth.entity.PtUser;
+import com.ares.auth.entity.PtUser;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

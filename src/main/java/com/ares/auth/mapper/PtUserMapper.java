@@ -1,6 +1,6 @@
-package com.ars.auth.mapper;
+package com.ares.auth.mapper;
 
-import com.ars.auth.entity.PtUser;
+import com.ares.auth.entity.PtUser;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

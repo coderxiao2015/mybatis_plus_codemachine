@@ -1,4 +1,4 @@
-package com.ars.codemachine.config;
+package com.ares.codemachine.config;
 
 /**
  * 代码机默认配置

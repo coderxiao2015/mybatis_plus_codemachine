@@ -12,7 +12,7 @@ public class DefineByUserConfig {
      * 数据库相关
      */
     //host+port+dbname  eg:localhost:3306/ars
-    public static final String DB_URL="localhost:3306/ars";
+    public static final String DB_URL="localhost:3306/ares";
     public static final String DB_USER_NAME="root";
     public static final String DB_PASSWORD="xiaoyi";
     //需要生成的表
