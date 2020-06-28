@@ -1,0 +1,7 @@
+datasource:
+  username: root
+  password: xiaoyi
+  driver-class-name: com.mysql.jdbc.Driver
+  host: jdbc:mysql://127.0.0.1:3306/ars?autoReconnectForPools=true&useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+
+

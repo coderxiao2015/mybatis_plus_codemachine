@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.ars.auth.mapper.PtUserMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.ars.auth.entity.PtUser">
+        <id column="id" property="id" />
+        <result column="name" property="name" />
+        <result column="code" property="code" />
+        <result column="remark" property="remark" />
+        <result column="admin_flag" property="adminFlag" />
+        <result column="enable_flag" property="enableFlag" />
+        <result column="delete_flag" property="deleteFlag" />
+        <result column="create_time" property="createTime" />
+        <result column="create_uid" property="createUid" />
+        <result column="update_time" property="updateTime" />
+        <result column="update_uid" property="updateUid" />
+    </resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        id, name, code, remark, admin_flag, enable_flag, delete_flag, create_time, create_uid, update_time, update_uid
+    </sql>
+
+</mapper>
